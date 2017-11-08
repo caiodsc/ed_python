@@ -1,5 +1,5 @@
 class Queue:
-    
+
     def __init__(self):
         self.queue = []
         self.len_queue = 0
